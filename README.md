@@ -2,10 +2,6 @@
 
 🌟 I’m Shakil Anower Samrat, a Computer Science & Engineering student at Mymensingh Engineering College and a game developer specializing in Unreal Engine 5. I am the CEO of Softsasi, a software and video game development company, and a researcher at Alpha Science Lab.
 
-My passions lie in entrepreneurship, technology, social justice, and education. I have been honored with awards such as the NASA Space Apps Challenge 2022 Bangladesh for my game Laniakea and the National Mobile Game, Apps Competition 2023 for my game Axel.
-
-I am constantly seeking opportunities to enhance my skills and grow professionally. My ultimate goal is to become a successful game developer and entrepreneur, leveraging my expertise to make a positive impact globally. Feel free to connect with me!
-
 👨‍💻 **My Journey So Far:**
 
 - 🚀 **Dedicated to becoming a versatile Game Developer and Software Engineer.**
@@ -17,16 +13,18 @@ I am constantly seeking opportunities to enhance my skills and grow professional
 - 💞️ **Excited to collaborate on game development and open to contributing to innovative projects across industries.**
 
 
+<br>📈 **Beyond Development:**
 
-<br>📈 Navigating Beyond Code:
-- 💡 Leveraging insights from psychology and liberal arts for creative problem-solving.
-- 🌎 Exploring global markets and stocks through Forex trading.
+- 💼 **Leading Softsasi LLC** as the CEO, managing projects in game and software development.
+- 🌍 **Exploring global opportunities** through various tech projects and collaborations with Upwork.
+- 💡 **Applying leadership and management skills** in innovative game projects, such as *Borof-Pani* and *Axel*.
 
-<br>📚 Lifelong Learner:
+<br>📚 **Lifelong Learner:**
 
-- 🌌 Passionate about emerging technologies and their transformative power.
-- 💡 Leveraging insights from psychology and liberal arts for innovative problem-solving.
-- 🔗 Eager to collaborate on open-source projects and contribute to the tech community.
+- 🎮 **Passionate about Unreal Engine 5 and game design**, constantly enhancing my expertise.
+- 🔧 **Expanding skills in cutting-edge tools** like Blender, Gaea, and Meta-human Creator.
+- 🤝 **Eager to contribute to tech communities**, with a strong interest in open-source projects and collaborative game development.
+
 
 <div align="center">
   <p>⚡ Fun fact - I am lazy but Smart</p>
