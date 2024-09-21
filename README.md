@@ -2,6 +2,10 @@
 
 🌟 I’m Shakil Anower Samrat, a Computer Science & Engineering student at Mymensingh Engineering College and a game developer specializing in Unreal Engine 5. I am the CEO of Softsasi, a software and video game development company, and a researcher at Alpha Science Lab.
 
+My passions lie in entrepreneurship, technology, social justice, and education. I have been honored with awards such as the NASA Space Apps Challenge 2022 Bangladesh for my game Laniakea and the National Mobile Game, Apps Competition 2023 for my game Axel.
+
+I am constantly seeking opportunities to enhance my skills and grow professionally. My ultimate goal is to become a successful game developer and entrepreneur, leveraging my expertise to make a positive impact globally. Feel free to connect with me!
+
 👨‍💻 **My Journey So Far:**
 
 - 🚀 **Dedicated to becoming a versatile Game Developer and Software Engineer.**
@@ -13,18 +17,16 @@
 - 💞️ **Excited to collaborate on game development and open to contributing to innovative projects across industries.**
 
 
-<br>📈 **Beyond Development:**
 
-- 💼 **Leading Softsasi LLC** as the CEO, managing projects in game and software development.
-- 🌍 **Exploring global opportunities** through various tech projects and collaborations with Upwork.
-- 💡 **Applying leadership and management skills** in innovative game projects, such as *Borof-Pani* and *Axel*.
+<br>📈 Navigating Beyond Code:
+- 💡 Leveraging insights from psychology and liberal arts for creative problem-solving.
+- 🌎 Exploring global markets and stocks through Forex trading.
 
-<br>📚 **Lifelong Learner:**
+<br>📚 Lifelong Learner:
 
-- 🎮 **Passionate about Unreal Engine 5 and game design**, constantly enhancing my expertise.
-- 🔧 **Expanding skills in cutting-edge tools** like Blender, Gaea, and Meta-human Creator.
-- 🤝 **Eager to contribute to tech communities**, with a strong interest in open-source projects and collaborative game development.
-
+- 🌌 Passionate about emerging technologies and their transformative power.
+- 💡 Leveraging insights from psychology and liberal arts for innovative problem-solving.
+- 🔗 Eager to collaborate on open-source projects and contribute to the tech community.
 
 <div align="center">
   <p>⚡ Fun fact - I am lazy but Smart</p>
@@ -41,9 +43,17 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shakilanowersamrat)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CEOSamrat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratbd) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samratkubdas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20340665) 
-
 ## 💻 Tech Stack:
 <p align="left">
+
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.iconscout.com/icon/premium/png-512-thumb/unreal-engine-7521071-7196807.png?f=webp"
+      alt="unreal engine"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
@@ -90,14 +100,7 @@
     />
   </a>
 
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.cdnlogo.com/logos/u/33/unreal-engine.svg"
-      alt="unreal engine"
-      width="70"
-      height="50"
-    />
-  </a>
+
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img
@@ -138,7 +141,6 @@
 </p>
 
 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShakilAnowerSamrat&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShakilAnowerSamrat&theme=blueberry&hide_border=false)<br/>
@@ -159,3 +161,5 @@
 
 
 ✨ Thanks for visiting, and let's innovate and learn together! ✨
+
+
