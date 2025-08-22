@@ -7,7 +7,6 @@
 - 🚀 **Dedicated to becoming a versatile Game Developer and Software Engineer.**
 - 🎮 **Specialized in Unreal Engine 5 for game development**, with experience in projects like *Borof-Pani* and *Axel*.
 - 🛠️ **Developing my technical expertise** in various tools such as Linux, Blender, Gaea, and Meta-human Creator.
-- 💼 **Leading a software company as the CEO of Softsasi LLC**, managing projects ranging from website development to game creation.
 - 💡 **Passionate about entrepreneurship, innovation, and social justice**, while actively seeking opportunities to grow as a professional.
 - 🏆 **Honored with several awards**, including the NASA Space Apps Challenge 2022 and the National Mobile Game Apps Competition 2023.
 - 💞️ **Excited to collaborate on game development and open to contributing to innovative projects across industries.**
